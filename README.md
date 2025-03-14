@@ -1,3 +1,4 @@
+![LeetCode Stats](https://leetcard.jacoblin.cool/Anand-mi45?theme=light&font=Andika%20New%20Basic)
 <h1 align="center">Hi 👋, I'm Paramanand V</h1>
 <h3 align="center">A passionate fullstack developer from Chennai</h3>
 
